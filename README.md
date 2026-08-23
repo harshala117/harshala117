@@ -15,9 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://harshala117.github.io/harshalaportfolio">
-    <img src="https://img.shields.io/badge/Portfolio-8B8EF2?style=for-the-badge&logoColor=white" alt="Portfolio">
-  </a>
+  
   <a href="https://www.linkedin.com/in/harshalapawar">
     <img src="https://img.shields.io/badge/LinkedIn-A8E6CF?style=for-the-badge&logo=linkedin&logoColor=1a1a1a" alt="LinkedIn">
   </a>
