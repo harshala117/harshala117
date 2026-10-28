@@ -93,19 +93,11 @@ Gesture-controlled on-screen keyboard using real-time hand tracking. Undergradua
 
 ---
 
-### GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshala117&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B8EF2&icon_color=F7A8C4&text_color=808080" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshala117&layout=compact&hide_border=true&bg_color=00000000&title_color=8B8EF2&text_color=808080" alt="Top languages">
-</p>
 
 ---
 
-<p align="center">
-  <i>Open to Cloud / Solutions Architect and AI Engineering roles.</i><br>
-  📫 Reach me on <a href="https://www.linkedin.com/in/harshalapawar">LinkedIn</a>
-</p>
+
 
 <!--
   OPTIONAL: theme-aware banner image.
