@@ -22,6 +22,9 @@
   <a href="https://vendor-shield.netlify.app">
     <img src="https://img.shields.io/badge/Live_Demo-F7A8C4?style=for-the-badge&logoColor=1a1a1a" alt="Live Demo">
   </a>
+  <a href="https://harshala117.github.io/harshalaportfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-8B8EF2?style=for-the-badge&logoColor=white" alt="Portfolio">
+</a>
 </p>
 
 ---
